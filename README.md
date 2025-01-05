@@ -1,1 +1,0 @@
-# Calculate-factorial-of-the-number-using-recursion-
